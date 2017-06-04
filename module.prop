@@ -1,8 +1,8 @@
-id=adfreeyoutube
-name=AdFree YouTube Magisk Template
+id=iYTBPMagisk
+name=iYTBP for Magisk
 version=v1
 versionCode=1
-author=vemacs
-description=Put in your preferred patched YouTube APK
+author=m0yP
+description=YouTube with background play and no ads
 support=No support
 donate=No donations
