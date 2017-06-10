@@ -50,7 +50,7 @@ LATESTARTSERVICE=false
 
 print_modname() {
   ui_print "*******************************"
-  ui_print "iYTBP Magisk Module"
+  ui_print "iYTBP for Magisk"
   ui_print "*******************************"
 }
 
