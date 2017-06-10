@@ -1,2 +1,1 @@
-v1
-    - First implementation.
+v1 - Initial release.
