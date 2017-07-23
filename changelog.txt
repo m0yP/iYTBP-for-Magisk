@@ -1,1 +1,5 @@
-v1 - Initial release.
+v1
+06/10/17 - Initial release.
+
+v2
+07/23/17 - Rewritten module based on new Magisk Template to work with v13+
