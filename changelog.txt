@@ -5,4 +5,7 @@ v2
 07/23/17 - Rewritten module based on new Magisk Template to work with v13+
 
 v2.5
-08/24/17 - Added "Remove" flag in config.sh
+08/24/17 - Added "Replace" flag in config.sh
+
+v3.0
+09/06/17 - Updated template to v1400
