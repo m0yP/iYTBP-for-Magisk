@@ -1,4 +1,6 @@
-# iYTBP for Magisk v3.0
+# iYTBP for Magisk v3.0 (Discontinued)
+
+# 11-28-2017 - This module has been discontinued so no more updates will be posted anywhere. Users are encouraged to get the "official" stuff. Using this template will give you an error when building. Smart move, but rather selfish IMO.
 
 This module works only in Magisk 13.3 and 14.0. Template has been rewritten so there's no backwards compatibility.
 
